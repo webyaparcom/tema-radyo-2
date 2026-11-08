@@ -1,0 +1,59 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Mercan FM: yayın akışı, programlar ve reklam talebi; künye ve lisans bilgileri açık. (Demo site — ses yayını yoktur)",
+    "en": "Mercan FM: broadcast schedule, programmes and advertising requests; masthead and licence details are open. (Demo site — no audio stream)",
+    "ar": "مرجان إف إم: جدول البث والبرامج وطلب الإعلان مع بيانات الإدارة والترخيص المعلنة. (موقع تجريبي — لا يوجد بث صوتي)"
+  },
+  "keyword": {
+    "tr": "radyo, yerel radyo, yayın akışı",
+    "en": "radio, local radio, broadcast schedule",
+    "ar": "إذاعة، إذاعة محلية، جدول البث"
+  },
+  "category": "Kurumsal",
+  "name": "Mercan FM",
+  "domain": "radyo-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "icon": "icon.png",
+  "theme_color": "#A8123D",
+  "publishMode": "static",
+  "phone": "+90 342 000 00 00",
+  "email": "istek@mercanfm.example",
+  "address": "Medya Sk. No: 8 Kat: 2, Şahinbey, Gaziantep (kurgusal adres)",
+  "font": {
+    "body": "open-sans",
+    "heading": "poppins",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "12px",
+    "--mx-radius-md": "20px",
+    "--mx-radius-lg": "28px",
+    "--mx-radius-xl": "38px",
+    "--mx-shadow-md": "0 24px 60px rgba(0,0,0,.18)",
+    "--mx-dur": "280ms"
+  }
+}

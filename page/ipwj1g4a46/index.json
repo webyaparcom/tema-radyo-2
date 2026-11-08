@@ -1,0 +1,41 @@
+{
+  "id": "ipwj1g4a46",
+  "name": {
+    "tr": "Programlar",
+    "en": "Programmes",
+    "ar": "البرامج"
+  },
+  "description": {
+    "tr": "Kurgusal program örnekleri; ses yayını bu demoda yoktur.",
+    "en": "Fictional sample programmes; there is no audio in this demo.",
+    "ar": "نماذج برامج افتراضية؛ ولا يوجد صوت في هذا العرض."
+  },
+  "keyword": {
+    "tr": "radyo, yerel radyo, yayın akışı",
+    "en": "radio, local radio, broadcast schedule",
+    "ar": "إذاعة، إذاعة محلية، جدول البث"
+  },
+  "path": "programlar",
+  "icon": "radio",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "qu2o5c",
+      "kl4d6q",
+      "qthjga"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Programlar",
+    "en": "Programmes",
+    "ar": "البرامج"
+  },
+  "date": "2026-10-31T14:49:52.860Z",
+  "update": "2026-11-05T19:39:07.348Z"
+}
