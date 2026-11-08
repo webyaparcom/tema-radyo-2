@@ -1,0 +1,39 @@
+{
+  "id": "oc1r8c7l3h",
+  "name": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "description": {
+    "tr": "Yayın stüdyosu ve ekipman görüntüleri; kişi yoktur.",
+    "en": "Studio and equipment images; no people.",
+    "ar": "صور الاستوديو والمعدات؛ دون أشخاص."
+  },
+  "keyword": {
+    "tr": "galeri, fotoğraf",
+    "en": "gallery, photos",
+    "ar": "معرض، صور"
+  },
+  "path": "galeri",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "n3edtx"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "date": "2026-10-31T14:49:52.871Z",
+  "update": "2026-11-05T19:39:07.363Z"
+}
