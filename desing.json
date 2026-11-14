@@ -24,7 +24,7 @@
     "2ihbn2"
   ],
   "headtop": "",
-  "headbottom": "<style id=\"wy-m9-kutulu\">#header [class*=\"-m9--kutulu\"] [class*=\"-m9-bar\"] a[class$=\"-m9-oge\"][aria-current=\"page\"]{color:var(--mx-site-primary-contrast, #ffffff)}</style>",
+  "headbottom": "",
   "colors": {
     "lite": [
       {
