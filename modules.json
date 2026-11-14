@@ -412,7 +412,8 @@
           "tr": "Üye Girişi",
           "en": "Login",
           "ar": "تسجيل الدخول"
-        }
+        },
+        "hataBildir": "https://webyapar.com/api/portal/tema-hata.js"
       },
       "id": "96ftv1",
       "path": "demo-bandi",
